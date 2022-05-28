@@ -66,6 +66,7 @@ button {
   border-radius: 10px;
   padding: 10px 40px;
   font-family: 'Roboto', sans-serif;
+  border: 0px;
 }
 
 .random {
